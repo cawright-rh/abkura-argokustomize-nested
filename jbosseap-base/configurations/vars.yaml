@@ -1,0 +1,4 @@
+varReference:
+- path: metadata/name
+- path: metadata/labels/tags.datadoghq.com\/service
+- path: spec/template/metadata/labels/tags.datadoghq.com\/service
